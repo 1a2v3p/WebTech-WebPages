@@ -1,0 +1,78 @@
+
+img{
+    height: 90px;
+    width: 150px;   
+}
+#ch1{
+    width: 700px;
+    height: 40px;
+}
+#p1{
+    margin-left: 120px;
+    margin-top: -70px;
+}
+#k1{
+    margin-left: 120px;
+    margin-top: 40px;
+}
+#g1{
+    margin-left: 1200px;
+    margin-top: -40px;
+}
+#ch2{
+    height: 300px;
+    width: 430px;
+    margin-left: 100px;
+    margin-top: 35px;
+     background-image: url(./images/laptop1.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+}
+.c1{
+    margin-left: 100px;
+}
+#button{
+    width: 200px;
+    height: 35px;
+    background: transparent;
+    border: none;
+    color: blue;
+    font-size: 20px;
+}
+#ch3{
+    height: 300px;
+    width: 430px;
+     background-image: url(./images/pexels-photo-1229861.webp);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     margin-left: 580px;
+     margin-top: -420px;
+}
+.c2{
+    margin-left: 580px;
+}
+#ch4{
+    height: 300px;
+    width: 430px;
+     background-image: url(./images/prtg.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     margin-left: 1060px;
+     margin-top: -420px;
+}
+.c3{
+    margin-left: 1060px;
+}
+#t1{
+    margin-top: 80px;
+}
+.g2{
+    height: 25px;
+    width: 25px;  
+}
+#u1{
+    margin-left: 1212px;
+}
