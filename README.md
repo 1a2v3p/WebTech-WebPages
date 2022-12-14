@@ -1,2 +1,2 @@
 # WebTech-WebPages
-I develop webpages using HTML and CSS.
+I developed webpages using HTML and CSS.
